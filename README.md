@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm Prarthi Kumari!
 
-<!--
-**prarthi1909/prarthi1909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing my B.Tech from LNCT Group of Colleges, Bhopal.  
+💻 I am passionate about Web Development and Software Development.  
+🛠️ I have hands-on experience with technologies like HTML, CSS, JavaScript, Java (with DSA), C++, and MongoDB.  
+🚀 Always curious to learn and explore new technologies.
 
-Here are some ideas to get you started:
+## 🔥 Skills
+- Frontend: HTML5 | CSS3 | JavaScript | Bootstrap
+- Backend: Node.js | Express.js | MongoDB | Mongoose
+- Programming: Java (with DSA) | C++ (Basic)
+- Tools: Git | GitHub | VS Code | Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects
+- **Urban Waste Management System** (Java Backend + HTML/CSS Frontend)
+- **Student Management System** (Node.js + MongoDB)
+- **Zoo Management System** (C++)
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/prarthi-kumari-348471256)
+- 📧 Email: prarthikumari0101@gmail.com
+
+---
+
+"Learning Never Exhausts The Mind." — Leonardo da Vinci
